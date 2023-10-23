@@ -14,7 +14,7 @@
         android:layout_weight="1"
         android:padding="36dp"
         android:adjustViewBounds="true"
-        android:contentDescription="@string/cafeLogoContDesc"
+        android:contentDescription="@string/cafe_logo_cont_desc"
         app:srcCompat="@drawable/coffee_sign" />
 
     <TextView
@@ -22,7 +22,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="16dp"
-        android:text="@string/textViewWelcome"
+        android:text="@string/text_view_welcome"
         android:textAlignment="center"
         android:textColor="#602B28"
         android:textSize="24sp"

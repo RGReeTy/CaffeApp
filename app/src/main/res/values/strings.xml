@@ -1,8 +1,28 @@
 <resources>
     <string name="app_name">CaffeApp</string>
-    <string name="textViewWelcome">Welcome!</string>
+    <string name="text_view_welcome">Welcome!</string>
     <string name="username_hint">Username</string>
     <string name="password_hint">Password</string>
     <string name="sign_in_button">Sign in</string>
-    <string name="cafeLogoContDesc">Cafe logo</string>
+    <string name="cafe_logo_cont_desc">Cafe logo</string>
+    <string name="greetings">Hello, %s</string>
+    <string name="tea">Tea</string>
+    <string name="coffee">Coffee</string>
+    <string name="additives">What to add to your %s?</string>
+    <string name="sugar">Sugar</string>
+    <string name="milk">Milk</string>
+    <string name="lime">Lime</string>
+    <string name="choose_drink_type">Choose drink type</string>
+    <string name="order">Order</string>
+
+    <array name="types_of_tea">
+        <item>Green</item>
+        <item>Black</item>
+    </array>
+
+    <array name="types_of_coffee">
+        <item>Americano</item>
+        <item>Espresso</item>
+        <item>Latte</item>
+    </array>
 </resources>
