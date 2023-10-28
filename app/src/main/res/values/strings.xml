@@ -14,6 +14,10 @@
     <string name="lime">Lime</string>
     <string name="choose_drink_type">Choose drink type</string>
     <string name="order">Order</string>
+    <string name="additive">Additive:</string>
+    <string name="drink_type">Drink type:</string>
+    <string name="drink">Drink:</string>
+    <string name="name">Name:</string>
 
     <array name="types_of_tea">
         <item>Green</item>
